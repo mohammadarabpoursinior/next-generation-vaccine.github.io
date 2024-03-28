@@ -17,6 +17,7 @@
             color: #fff;
             padding: 20px;
             text-align: center;
+            width: 100%;
         }
         nav {
             background-color: #0056b3;
@@ -42,6 +43,7 @@
             position: fixed;
             bottom: 0;
             width: 100%;
+            left: 0;
         }
         section {
             margin-bottom: 40px;
