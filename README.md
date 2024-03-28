@@ -99,7 +99,7 @@
         <section id="contact">
             <h2>Contact Us</h2>
             <p>If you have any questions or inquiries, please feel free to contact us:</p>
-            <p>Email: info@nextgenvaccine.com</p>
+            <p>Email: mohammad.arabpour.sinior@gmail.com</p>
             <p>Phone: +46-707271036</p>
         </section>
     </div>
