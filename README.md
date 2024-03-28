@@ -23,19 +23,11 @@
             color: #fff;
             padding: 10px;
             text-align: center;
-            margin-bottom: 20px;
         }
         nav a {
             color: #fff;
             text-decoration: none;
             margin: 0 10px;
-            padding: 10px 20px;
-            border-radius: 5px 5px 0 0;
-            background-color: #0056b3;
-            transition: background-color 0.3s;
-        }
-        nav a:hover {
-            background-color: #004080;
         }
         .container {
             width: 80%;
@@ -114,6 +106,10 @@
                     </ul>
                 </li>
             </ul>
+        </section>
+        <section id="watch">
+            <h2>Watch</h2>
+            <p>Learn more about our technology on YouTube: <a href="https://www.youtube.com/watch?v=kcWT8EMYwYY">Watch Now</a></p> <!-- YouTube link added -->
         </section>
         <section id="contact">
             <h2>Contact Us</h2>
