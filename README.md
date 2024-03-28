@@ -80,7 +80,7 @@
         <section id="products">
             <h2>Our Products</h2>
             <p>Our vaccine technology is versatile with great applications for cancer and infectious diseases.</p>
-            <img src="technology.jpg" alt="Vaccine Technology" width="400">
+            <img src="hala.jpg" alt="Vaccine Technology" width="400">
             <h3>Pipelines</h3>
             <ul>
                 <li>Oncology Pipeline
