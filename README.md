@@ -89,10 +89,10 @@
         </section>
         <section id="products">
             <h2>Our Technology</h2>
-            <p>Our proprietory vaccine technology is versatile with great applications for cancer and infectious diseases. Our vaccine technology consists of several modules with specialized function. It is working as an immune enhancer boosting immune system against a specific target. Augmented immunity then could destroy cancer malignancy and protect against infectious diseases.</p>
+            <p>Our proprietory vaccine platform technology is versatile with great applications for cancer and infectious diseases. Our vaccine technology consists of several modules with specialized function. It is working as an immune enhancer boosting immune system against a specific target. Augmented immunity then could destroy cancer malignancy and protect against infectious diseases.</p>
             <img src="hala.jpg" alt="Vaccine Technology" width="1000"> <!-- Moved the image here -->
-            <h3>Pipelines</h3>
-            <img src="pipline.jpg" alt="Pipelines" width="500">
+            <h2>Pipelines</h2>
+            <img src="pipline.jpg" alt="Pipelines" width="1000">
             <ul>
                 <li>Oncology Pipeline
                     <ul>
