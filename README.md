@@ -73,7 +73,7 @@
             <p>Next Generation Vaccine is committed to providing cutting-edge vaccines to safeguard public health. With our state-of-the-art research facilities and dedicated team of scientists, we strive to develop innovative solutions to combat infectious diseases.</p>
             <h3>The Team</h3>
             <div style="display: flex;">
-                <img src="mohammad.jpg" alt="Mohammad Arabpour" width="1200" style="margin-right: 20px;">
+                <img src="mohammad.jpg" alt="Mohammad Arabpour" width="200" style="margin-right: 20px;">
                 <div>
                     <h4>Mohammad Arabpour - CEO</h4>
                     <p>DR. Arabpour has M.Sc. in medical virology and Ph.D. in Biomedicine. He has a long career +12 years in vaccine discovery and evaluation in industry and academic Designed, created and evaluated the first Mucosal vaccine. leading the scientific strategy And drug development has extensive experience in the pharmaceutical industry and leads our company with vision and expertise.</p>
