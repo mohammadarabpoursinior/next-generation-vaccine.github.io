@@ -64,7 +64,7 @@
     </header>
     <nav>
         <a href="#about">About Us</a>
-        <a href="#products">Products</a>
+        <a href="#products">Science</a>
         <a href="#contact">Contact Us</a>
     </nav>
     <div class="container">
