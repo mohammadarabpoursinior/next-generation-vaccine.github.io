@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,11 +23,19 @@
             color: #fff;
             padding: 10px;
             text-align: center;
+            margin-bottom: 20px;
         }
         nav a {
             color: #fff;
             text-decoration: none;
             margin: 0 10px;
+            padding: 10px 20px;
+            border-radius: 5px 5px 0 0;
+            background-color: #0056b3;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #004080;
         }
         .container {
             width: 80%;
@@ -73,26 +81,24 @@
             <p>Next Generation Vaccine is committed to providing cutting-edge vaccines to safeguard public health. With our state-of-the-art research facilities and dedicated team of scientists, we strive to develop innovative solutions to combat infectious diseases.</p>
             <h3>The Team</h3>
             <div style="display: flex;">
-                <img src="mohammad.jpg" alt="Mohammad Arabpour" width="200" style="margin-right: 20px;">
+                <img src="mohammad.jpg" alt="Mohammad Arabpour" width="100" style="margin-right: 20px;">
                 <div>
                     <h4>Mohammad Arabpour - CEO</h4>
                     <p>DR. Arabpour has M.Sc. in medical virology and Ph.D. in Biomedicine. He has a long career +12 years in vaccine discovery and evaluation in industry and academic Designed, created and evaluated the first Mucosal vaccine. leading the scientific strategy And drug development has extensive experience in the pharmaceutical industry and leads our company with vision and expertise.</p>
                 </div>
             </div>
             <div style="display: flex;">
-                <img src="sara.jpg" alt="Sara Torkzadeh" width="200" style="margin-right: 20px;">
+                <img src="sara.jpg" alt="Sara Torkzadeh" width="100" style="margin-right: 20px;">
                 <div>
                     <h4>Sara Torkzadeh - CTO</h4>
                     <p>Ms. Torkzadeh with M.Sc. in Biotechnology and more than 5 years of experiences in vaccine evaluation in infectious diseases. leading the scientific strategy. oversees our research and development efforts, driving innovation and excellence in vaccine technology.</p>
                 </div>
             </div>
-            <h3>Watch</h3>
-            <p>Learn more about our technology on YouTube: <a href="https://www.youtube.com/watch?v=kcWT8EMYwYY">Watch Now</a></p> <!-- YouTube link added -->
         </section>
         <section id="products">
             <h2>Our Technology</h2>
             <p>Our vaccine technology is versatile with great applications for cancer and infectious diseases. Our vaccine technology consists of several modules with specialized function. It is working as an immune enhancer boosting immune system against a specific target. Augmented immunity then could destroy cancer malignancy and protect against infectious diseases.</p>
-            <img src="hala.jpg" alt="Vaccine Technology" width="1000">
+            <img src="hala.jpg" alt="Vaccine Technology" width="1000"> <!-- Moved the image here -->
             <h3>Pipelines</h3>
             <img src="pipline.jpg" alt="Pipelines" width="500">
             <ul>
@@ -106,15 +112,6 @@
                     <ul>
                         <li>Influenza</li>
                     </ul>
-                </li>
-            </ul>
-            <h3>Publications</h3> <!-- New section for Publications -->
-            <ul>
-                <li>
-                    Arabpour M, Lebrero-Fernandez C, Schön K, Strömberg A, Börjesson V, Lahl K, Ballegeer M, Saelens X, Angeletti D, Agace W, Lycke N. ADP-ribosylating adjuvant reveals plasticity in cDC1 cells that drive mucosal Th17 cell development and protection against influenza virus infection. Mucosal Immunol. 2022 Apr;15(4):745-761. doi: 10.1038/s41385-022-00510-1. Epub 2022 Apr 13. PMID: 35418673; PMCID: PMC9259495.
-                </li>
-                <li>
-                    Arabpour M, et al. An adjuvant-containing cDC1-targeted recombinant fusion vaccine conveys strong protection against murine melanoma growth and metastasis. Oncoimmunology. 2022 Aug 24;11(1):2115618. doi: 10.1080/2162402X.2022.2115618. PMID: 36046810; PMCID: PMC9423856.
                 </li>
             </ul>
         </section>
